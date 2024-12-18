@@ -1,0 +1,63 @@
+{
+    "Designers": [
+        "Elwen",
+        "Mín"
+    ],
+    "Artists": [
+        "Ondřej Hrdina",
+        "Jiří Kůs",
+        "Filip Murmak",
+        "Jakub Politzer",
+        "František Sedláček",
+        "Milan Vavroň"
+    ],
+    "Publishers": [
+        "Czech Games Edition",
+        "Brädspel.se",
+        "Cranio Creations",
+        "Devir",
+        "DiceTree Games",
+        "Fantasmagoria",
+        "GaGa Games",
+        "Games4you",
+        "Gém Klub Kft.",
+        "HeidelBÄR Games",
+        "Hobby Japan",
+        "IELLO",
+        "Kaissa Chess & Games",
+        "Lautapelit.fi",
+        "Lex Games",
+        "Lord of Boards",
+        "MINDOK",
+        "More Fun Co., Ltd.",
+        "One Moment Games",
+        "Rebel Sp. z o.o.",
+        "Spilbræt.dk",
+        "White Goblin Games"
+    ],
+    "Developers": [
+        "Michal Štach",
+        "Michaela Štachová"
+    ],
+    "Graphic Designer": [
+        "Filip Murmak"
+    ],
+    "Categories": [
+        "Adventure",
+        "Ancient",
+        "Exploration",
+        "Fantasy",
+        "Travel"
+    ],
+    "Mechanisms": [
+        "Contracts",
+        "Deck, Bag, and Pool Building",
+        "Market",
+        "Multi-Use Cards",
+        "Once-Per-Game Abilities",
+        "Resource to Move",
+        "Solo / Solitaire Game",
+        "Turn Order: Progressive",
+        "Worker Placement"
+    ]
+}
